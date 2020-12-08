@@ -10,11 +10,10 @@ An application that can store your small pocket expenses.
 
 ### Screen shots
 #### Portrait Layout
-1. ![Main Screen](screenshots/1.png)
+| Main Screen | Add new Transaction Modal | After Adding new Transaction |
+| - | - | - |
+| ![Main Screen](screenshots/1.png) | ![Add Transaction Modal](screenshots/3.png) | ![New Transaction on main screen](screenshots/4.png) |
 
-2. ![Add Transaction Modal](screenshots/3.png)
-
-3. ![New Transaction on main screen](screenshots/4.png)
 
 4. ![Several Transactions with Weekly Chart](screenshots/5.png)
 
