@@ -14,9 +14,9 @@ An application that can store your small pocket expenses.
 | - | - | - |
 | ![Main Screen](screenshots/1.png) | ![Add Transaction Modal](screenshots/3.png) | ![New Transaction on main screen](screenshots/4.png) |
 
-| Some Transactions with weekly Chart | After deleting one Transaction |
-| - | - |
-| ![Several Transactions with Weekly Chart](screenshots/5.png) | ![One deleted Transaction and reflected in main screen](screenshots/6.png) |
+| Some Transactions with weekly Chart | After deleting one Transaction | |
+| - | - | - |
+| ![Several Transactions with Weekly Chart](screenshots/5.png) | ![One deleted Transaction and reflected in main screen](screenshots/6.png) |  |
 
 #### Landscape Layout
 | Main Screen with Switch option | List of Transactions | Chart of Transactions |
