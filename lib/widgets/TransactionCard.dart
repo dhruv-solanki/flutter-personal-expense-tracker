@@ -27,15 +27,13 @@ class TransactionCard extends StatelessWidget {
           ),
         ],
       ),
-    ) : ListView.builder(
-      itemCount: transactions.length,
-      itemBuilder: (ctx, index) {
-        return TransactionTile(
-            transaction: transactions[index],
-            mediaQuery: mediaQuery,
-            deleteTransaction: deleteTransaction
-        );
-      },
+    ) : ListView(
+          children: transactions.map((tx) => TransactionTile(
+              key: ValueKey(tx.id),
+              transaction: tx,
+              mediaQuery: mediaQuery,
+              deleteTransaction: deleteTransaction
+          )).toList(),
     );
   }
 }

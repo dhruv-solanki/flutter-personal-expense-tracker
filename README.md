@@ -1,16 +1,28 @@
-# expense_tracker
+### Personal Expense Tracker Application
+An application that can store your small pocket expenses.
 
-A new Flutter application for tracking expenses.
+### Features
+* Weekly Chart bar
+* Add your expense tile with title, amount and date
+* Delete your expense tile
+* Portrait and Landscape mode UI (Responsive UI)
+* Works on Android and iOS (Adaptive UI)
 
-## Getting Started
+### Screen shots
+#### Portrait Layout
+1. ![Main Screen](screensshots/1.png)
 
-This project is a starting point for a Flutter application.
+2. ![Add Transaction Modal](screensshots/3.png)
 
-A few resources to get you started if this is your first Flutter project:
+3. ![New Transaction on main screen](screensshots/4.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+4. ![Several Transactions with Weekly Chart](screensshots/5.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+5. ![One deleted Transaction and reflected in main screen](screensshots/6.png)
+
+#### Landscape Layout
+1. ![Main Screen with option of either Chart or List of Transaction](screenshots/2.png)
+
+2. ![List of Transactions](screenshots/7.png)
+
+3. ![Chart of Transactions](screenshots/8.png)
